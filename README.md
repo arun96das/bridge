@@ -1,0 +1,2 @@
+# bridge
+The bow of the bridge has the form of a parabola with a width of ‘b’ and a height of ‘a’. The street is located with the distance ‘c’ above the bow. ‘N’ vertical elements attach the street to the bow.  Write a program performing the following tasks:  Ask the user to enter the values for a, b, c and N. Check that all values are bigger than 0. Illegal values shall be entered again. Calculate and print the length of every steel element as well as the total length of all steel elements  Tricky: The first steel element has to be at position 0, the last at position a!
